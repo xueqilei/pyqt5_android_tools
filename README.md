@@ -15,8 +15,8 @@ adb 环境配置
 python call_tools.py
 
 
-截图：
-![Uploading 截屏2021-03-28 下午7.04.11.png…]()
+
+
 
 
 
