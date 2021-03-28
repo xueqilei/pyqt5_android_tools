@@ -4,11 +4,17 @@ PyQt开发的协助安卓日常测试的小工具（截图，安装，卸载，l
 
 mac开发环境配置：（https://www.jianshu.com/p/6fab1fe260d2）
 1、python3.6
+
 2、pycharm
+
 3、PyQt5-Designer:http://download.qt.io/official_releases/qt/5.9/5.9.0/qt-opensource-mac-x64-5.9.0.dmg
+
 4、pip3 install PyQt5
+
 5、pip3 install pyqt5-tools
+
 6、pip3 install pyuic5-tool
+
 7、adb环境
 
 
