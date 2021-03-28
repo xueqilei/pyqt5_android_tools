@@ -3,6 +3,7 @@ PyQt开发的协助安卓日常测试的小工具（截图，安装，卸载，l
 
 
 mac开发环境配置：（https://www.jianshu.com/p/6fab1fe260d2）
+
 1、python3.6
 
 2、pycharm
