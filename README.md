@@ -26,10 +26,14 @@ PyCharm---Perferences---Tools--External Tools---+
 <img width="734" alt="截屏2021-03-28 下午8 25 03" src="https://user-images.githubusercontent.com/33284151/112752063-ba4f6880-9003-11eb-8792-7bf632288049.png">
 
 /Users/leixueqi/PycharmProjects/pythonProject2/venv/bin/python3.6
+
 -m PyQt5.uic.pyuic $FileName$ -o $FileNameWithoutExtension$.py
+
 $FileDir$
 
 
+
+<img width="985" alt="截屏2021-03-28 下午8 44 46" src="https://user-images.githubusercontent.com/33284151/112752661-a6f1cc80-9006-11eb-9226-7a9e04aba09a.png">
 
 执行：
 python call_tools.py
